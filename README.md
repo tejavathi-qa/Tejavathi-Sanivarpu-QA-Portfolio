@@ -1,34 +1,64 @@
-# Tejavathi Sanivarapu | Professional CV
+# Tejavathi Sanivarapu | Senior Software Test Engineer
+## Mastering Quality: Expert Insights from a Seasoned QA Professional
 
-This repository hosts the professional portfolio and CV of **Tejavathi Sanivarapu**, a Senior Software Test Engineer with over 8 years of experience.
+Welcome to my professional portfolio repository. This site showcases over **8 years** of comprehensive experience in ensuring software excellence across diverse domains including FinTech, Cybersecurity, and Enterprise ERP systems.
 
-## 🚀 Key Highlights
-- **8+ Years Experience** in Manual & Automated Testing.
-- **Specialization**: API Testing (Postman/RestAssured), ERP Testing, & Performance Testing (JMeter).
-- **Core Stack**: Selenium WebDriver with Java, SQL, Azure DevOps, Agile Methodologies.
-- **Background**: Proven track record in FinTech (AIG), Cybersecurity (DigitalXForce), and Enterprise Solutions.
+---
 
-## 🌐 Live Preview
-You can view the live resume at: [Link to GitHub Pages]
+## 🌐 Live Portfolio
+**[Click here to view the live responsive CV](https://tejavathi-qa.github.io/Tejavathi-Sanivarpu-QA-Portfolio/)**
 
-## 🛠️ Built With
-- **HTML5 & CSS3**: Modern glassmorphic design and responsive layout.
-- **JavaScript**: Interactive UI elements and scroll animations.
-- **AOS**: Animate On Scroll library for smooth transitions.
-- **Font Awesome**: Premium iconography.
+---
+
+## 🛡️ Testing Philosophy
+As a seasoned QA professional, I advocate for a **Quality-First Culture**. My approach integrates:
+- **Shift-Left Testing**: Engaging early in the SDLC to identify defects at the requirement stage, reducing cost and lead time.
+- **Risk-Based Testing (RBT)**: Prioritizing test efforts based on business impact and technical probability of failure.
+- **Continuous Quality**: Leveraging CI/CD (Azure DevOps) to maintain a steady state of application health throughout development.
+
+---
+
+## 🚀 Professional Highlights
+- **Expertise in Manual & Automation**: 8+ years of balanced experience in Manual, Automation, API, and Performance Testing.
+- **End-to-End API Validation**: Advanced proficiency using Postman, RestAssured, and Swagger for robust backend testing.
+- **ERP Specialist**: Deep experience in testing complex ERP modules, Inventory Management, and CRM applications.
+- **Security Awareness**: Knowledgeable in vulnerability scanning and security assessments using OWASP ZAP and Burp Suite.
+
+---
+
+## 🛠️ Technical Ecosystem
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Automation** | Selenium WebDriver (Java), Appium (Mobile), REST Assured |
+| **Testing Tools** | Postman, JMeter, LoadRunner, Swagger, SOAP UI |
+| **Management** | Azure DevOps, JIRA, Bugzilla, RTM, Test Planning |
+| **Languages/DB** | Java, SQL Server, CSS, X-Path, JavaScript |
+| **Platforms** | Web, Mobile (Android/iOS), Cloud-based Apps |
+
+---
+
+## 💼 Featured Projects
+- **DigitalXForce**: Unified Enterprise Security Risk Posture Management (ESRPM) SaaS.
+- **AIG Ecosystem**: Secure payment gateways (AIG-PG), Insurance APIs, and support portals.
+- **Provider Data Extract 2.0**: High-complexity data transformation and extraction system.
+
+---
 
 ## 📁 Repository Structure
 ```text
-├── index.html      # Main CV structure
-├── style.css       # Core styling & Design system
-├── script.js       # Interactive components
-└── hero-bg.png     # Custom generated hero asset
+├── index.html      # Professional CV Webpage (Semantic HTML5)
+├── style.css       # Design System (Dark Mode, Glassmorphism, Responsive)
+├── script.js       # Interactivity (Scroll Animations, Mobile Toggles)
+├── upload.bat      # One-click deployment script for Git automation
+└── hero-bg.png     # Custom high-grade branding visualization
 ```
 
-## 📬 Contact Information
+---
+
+## 📪 Connect with Me
 - **Email**: tejavathi124@gmail.com
-- **Location**: Hyderabad, IN
 - **LinkedIn**: [tejavathisanivarapu](https://www.linkedin.com/in/tejavathisanivarapu/)
+- **Location**: Hyderabad, IN
 
 ---
-*Created by Tejavathi Sanivarapu - Passionate about Software Excellence.*
+*Built with passion for quality and technical excellence. © 2026 Tejavathi Sanivarapu*
