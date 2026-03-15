@@ -27,9 +27,8 @@ You can view the live resume at: [Link to GitHub Pages]
 
 ## 📬 Contact Information
 - **Email**: tejavathi124@gmail.com
-- **Phone**: +91 9000412363
 - **Location**: Hyderabad, IN
-- **LinkedIn**: [Your LinkedIn Profile]
+- **LinkedIn**: [tejavathisanivarapu](https://www.linkedin.com/in/tejavathisanivarapu/)
 
 ---
 *Created by Tejavathi Sanivarapu - Passionate about Software Excellence.*
