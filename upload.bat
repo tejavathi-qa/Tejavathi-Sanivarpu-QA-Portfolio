@@ -22,4 +22,4 @@ echo.
 echo ===========================================
 echo   Deployment Complete!
 echo ===========================================
-timeout /t 3
+timeout /t 1

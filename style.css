@@ -673,6 +673,101 @@ h4,
     font-size: 0.9rem;
 }
 
+/* GitHub Stats Section */
+.github-stats-container {
+    padding: 60px 0;
+    margin-top: 40px;
+}
+
+.github-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 3rem;
+}
+
+.github-title {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.github-title i {
+    font-size: 2.5rem;
+    color: var(--text-main);
+}
+
+.github-title h2 {
+    font-size: 2rem;
+    margin: 0;
+}
+
+.github-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+}
+
+.repo-card {
+    background: var(--glass);
+    border: 1px solid var(--glass-border);
+    padding: 2rem;
+    border-radius: 20px;
+    transition: var(--transition);
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.repo-card:hover {
+    transform: translateY(-5px);
+    border-color: var(--primary);
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.repo-card h3 {
+    font-size: 1.25rem;
+    margin-bottom: 0.75rem;
+    color: var(--secondary);
+}
+
+.repo-card p {
+    font-size: 0.95rem;
+    color: var(--text-muted);
+    margin-bottom: 1.5rem;
+    flex-grow: 1;
+}
+
+.repo-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.85rem;
+}
+
+.repo-lang {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.lang-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+
+.repo-link {
+    color: var(--primary);
+    text-decoration: none;
+    font-weight: 600;
+    transition: var(--transition);
+}
+
+.repo-link:hover {
+    text-decoration: underline;
+}
+
 /* Responsive */
 @media (max-width: 992px) {
     .hero h1 {
@@ -801,5 +896,15 @@ h4,
 
     .timeline-dot {
         left: 2px;
+    }
+
+    .github-header {
+        flex-direction: column;
+        text-align: center;
+        gap: 1.5rem;
+    }
+
+    .github-grid {
+        grid-template-columns: 1fr;
     }
 }
