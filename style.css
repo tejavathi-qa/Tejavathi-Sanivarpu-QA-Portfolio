@@ -143,14 +143,14 @@ h4,
 }
 
 .hero-profile-img {
-    width: 320px;
-    height: 320px;
+    width: 240px;
+    height: 240px;
     object-fit: cover;
-    border-radius: 30px;
-    border: 2px solid var(--glass-border);
+    border-radius: 50%;
+    border: 3px solid var(--primary);
     position: relative;
     z-index: 2;
-    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+    box-shadow: 0 0 30px var(--primary-glow);
 }
 
 .img-glow {
@@ -721,5 +721,24 @@ h4,
 
     .projects-grid {
         grid-template-columns: 1fr;
+    }
+
+    .hero-flex {
+        flex-direction: column;
+        text-align: center;
+        gap: 2rem;
+    }
+
+    .contact-strip {
+        justify-content: center;
+    }
+
+    .hero-btns {
+        justify-content: center;
+    }
+
+    .hero-profile-img {
+        width: 180px;
+        height: 180px;
     }
 }
