@@ -1,4 +1,12 @@
-# Tejavathi Sanivarapu | Senior Software Test Engineer
+<div align="center">
+  <img src="images/Tejavathi_Sanivarapu_DP.jpg" width="180" style="border-radius: 50%; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+  <h1>Tejavathi Sanivarapu | Senior Software Test Engineer</h1>
+  <p><b>Expertise in Manual & Automation Testing | 8+ Years Experience</b></p>
+  
+  <p><b>Public Profile URL for Sharing:</b><br>
+  <code>https://raw.githubusercontent.com/tejavathi-qa/Tejavathi-Sanivarpu-QA-Portfolio/main/images/Tejavathi_Sanivarapu_DP.jpg</code></p>
+</div>
+
 ## Mastering Quality: Expert Insights from a Seasoned QA Professional
 
 Welcome to my professional portfolio repository. This site showcases over **8 years** of comprehensive experience in ensuring software excellence across diverse domains including FinTech, Cybersecurity, and Enterprise ERP systems.
@@ -6,7 +14,7 @@ Welcome to my professional portfolio repository. This site showcases over **8 ye
 ---
 
 ## 🌐 Live Portfolio
-**[Click here to view the live responsive CV](https://tejavathi-qa.github.io/Tejavathi-Sanivarpu-QA-Portfolio/)**
+**[Click here to view the live responsive CV](https://tejavathi-qa.github.io/Tejavathi-Sanivarpu-QA-Portfolio/index.html)**
 
 ---
 
@@ -46,11 +54,13 @@ As a seasoned QA professional, I advocate for a **Quality-First Culture**. My ap
 
 ## 📁 Repository Structure
 ```text
-├── index.html      # Professional CV Webpage (Semantic HTML5)
-├── style.css       # Design System (Dark Mode, Glassmorphism, Responsive)
-├── script.js       # Interactivity (Scroll Animations, Mobile Toggles)
-├── upload.bat      # One-click deployment script for Git automation
-└── hero-bg.png     # Custom high-grade branding visualization
+├── images/                  # Media assets including profile photo
+│   └── Tejavathi_Sanivarapu_DP.jpg
+├── index.html               # Professional CV Webpage (Semantic HTML5)
+├── style.css                # Design System (Dark Mode, Glassmorphism, Responsive)
+├── script.js                # Interactivity (Scroll Animations, Mobile Toggles)
+├── upload.bat               # One-click deployment script for Git automation
+└── hero-bg.png              # Custom high-grade branding visualization
 ```
 
 ---
